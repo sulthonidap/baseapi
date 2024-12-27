@@ -1,0 +1,10 @@
+bin/
+uploads/
+.DS_Store
+.env.development
+.env.production
+*.exe
+*.exe~
+api
+.vscode
+baseApi-api
